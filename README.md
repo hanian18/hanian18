@@ -1,4 +1,4 @@
-Hi! I am Ian Roy, a college student from the Philippines. Dreaming to become a Data Scientist. I love studying and productivity topics.
+Hi! I am Ian Roy, a college student from the Philippines. Dreaming to become a Data Scientist / Machine Learning Engineer. I love studying and productivity topics.
 
 - 🔭 I’m currently working on my Pomodoro Application (NEWJEANS THEME)
 - 🌱 I’m currently learning Data Science and Ai
